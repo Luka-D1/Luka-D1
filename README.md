@@ -19,12 +19,12 @@ RISE ABOVE, FOCUS ON SCIENCE.
 
 ## 👨‍🚀 About Me
 
-- 🎓 中国科学院大学空天院硕士研究生
-- 🧭 目前专注于 **组合导航（Integrated Navigation）**
-- 🛰️ 正在学习 **多传感器融合（Multi-Sensor Fusion）**
-- 🤖 对 **视觉语言导航（Vision-and-Language Navigation, VLN）** 有浓厚兴趣
-- 🌱 希望探索定位、感知、语言与具身智能之间的联系
-- 📚 在这里记录项目、实验代码和学习笔记
+- 🎓 Master's student in UCAS, AIR (Aerospace Information Research Institute).
+- 🧭 Focus on **Integrated Navigation** currently
+- 🛰️ Learning about **Multi-Sensor Fusion**
+- 🤖 Interested in **Vision-and-Language Navigation, VLN**
+- 🌱 Eager to explore the intersections of localization, perception, language and embodied intelligence
+- 📚 Record my project, experiment code and study note here
 
 ## 🔭 Research Interests
 
@@ -43,20 +43,16 @@ To Be Started...XD
 - 🛰️ [Multi-Sensor Fusion Notes](https://github.com/Luka-D1)
 - 🤖 [VLN Learning Notes](https://github.com/Luka-D1)
 
-## 📊 GitHub Stats
+## ♾️ Words to myself
+For my future:  
+Embrace AI, embrace Change.  
 
-<div align="center">
+For my present:  
+Do not try to be the smartest one in the room,  
+but try to be the most patient one in the game.  
 
-  <img
-    height="165"
-    src="https://github-stats-extended.vercel.app/api?username=Luka-D1&show_icons=true&hide_border=true&theme=transparent"
-    alt="Luka-D1 GitHub Stats"
-  />
+For my past:  
+Never ever look back. Your past is important that's for sure,  
+but only by looking forward can you build something that lasts.
 
-  <img
-    height="165"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Luka-D1&layout=compact&hide_border=true&theme=transparent"
-    alt="Luka-D1 Top Languages"
-  />
-
-</div>
+🕊️Peace ＆ Love❤
