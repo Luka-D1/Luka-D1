@@ -7,11 +7,11 @@
 中国科学院大学空天院硕士研究生  
 Master's student at UCAS
 
-RISE ABOVE, FOCUS ON SCIENCE
+RISE ABOVE, FOCUS ON SCIENCE.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Luka--D1-181717?logo=github)](https://github.com/Luka-D1)
-![Research](https://img.shields.io/badge/Research-Multi--Sensor_Fusion-0A66C2)
-![Interest](https://img.shields.io/badge/Interest-VLN-8A2BE2)
+[![GitHub](https://img.shields.io/badge/GitHub-Luka--D1-181717?logo=github&logoColor=white)](https://github.com/Luka-D1)
+[![Email](https://img.shields.io/badge/Email-duanfangkai26@mails.ucas.ac.cn-EA4335?logo=gmail&logoColor=white)](mailto:duanfangkai26@mails.ucas.ac.cn)
+![Focus](https://img.shields.io/badge/Focus-Integrated_Navigation-0A66C2)
 
 </div>
 
