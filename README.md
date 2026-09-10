@@ -47,15 +47,16 @@ To Be Started...XD
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Luka-D1&show_icons=true&hide_border=true&theme=transparent" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luka-D1&layout=compact&hide_border=true&theme=transparent" />
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api?username=Luka-D1&show_icons=true&hide_border=true&theme=transparent"
+    alt="Luka-D1 GitHub Stats"
+  />
 
-</div>
-
----
-
-<div align="center">
-
-### Keep exploring, keep building. 🚀
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Luka-D1&layout=compact&hide_border=true&theme=transparent"
+    alt="Luka-D1 Top Languages"
+  />
 
 </div>
