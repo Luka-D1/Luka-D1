@@ -24,7 +24,7 @@ RISE ABOVE, FOCUS ON SCIENCE.
 - 🛰️ Learning about **Multi-Sensor Fusion**
 - 🤖 Interested in **Vision-and-Language Navigation, VLN**
 - 🌱 Eager to explore the intersections of localization, perception, language and embodied intelligence
-- 📚 Record my project, experiment code and study note here
+- 📚 I document my projects, experimental code, and study notes here
 
 ## 🔭 Research Interests
 
