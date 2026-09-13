@@ -45,7 +45,7 @@ To Be Started...XD
 
 ## ♾️ Words to myself
 For my future:  
-Embrace AI, embrace Change.  
+Embrace AI, Embrace Change.  
 
 For my present:  
 Do not try to be the smartest one in the room,  
